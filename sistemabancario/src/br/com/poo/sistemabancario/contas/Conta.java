@@ -59,6 +59,26 @@ public class Conta {
 			return true;
 		}
 		}
+
+	public int getNumero() {
+		return numero;
+	}
+
+	public String getTitular() {
+		return titular;
+	}
+
+	public double getSaldo() {
+		return saldo;
+	}
+
+	public void setNumero(int numero) {
+		this.numero = numero;
+	}
+
+	public void setTitular(String titular) {
+		this.titular = titular;
+	}
 	
 
 }
