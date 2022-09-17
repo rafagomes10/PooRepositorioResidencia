@@ -9,6 +9,7 @@
 	<item key="org.eclipse.jdt.ui.last.selected.jre.kind2" value="1"/>
 	<item key="org.eclipse.jdt.ui.last.selected.execution.enviroment" value="JavaSE-17"/>
 	<item key="org.eclipse.jdt.ui.last.selected.project.jre" value="Java SE 11.0.16 [11.0.16]"/>
+	<item key="org.eclipse.jdt.ui.last.external.project" value="/Users/rafaelgomez/Documents/ProjetoFinalPoo/Projeto-final-Poo"/>
 	<section name="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart">
 		<item key="group_libraries" value="true"/>
 		<item key="layout" value="2"/>
@@ -31,7 +32,7 @@
 	<section name="CallHierarchySearchScope">
 	</section>
 	<section name="BuildPathsPropertyPage">
-		<item key="pageIndex" value="2"/>
+		<item key="pageIndex" value="3"/>
 	</section>
 	<section name="JavaBuildConfigurationBlock">
 		<item key="expanded0" value="true"/>
@@ -73,8 +74,8 @@
 		<item key="RemoveFinal" value="false"/>
 	</section>
 	<section name="DialogBounds_GetterSetterTreeSelectionDialog">
-		<item key="DIALOG_X_ORIGIN" value="895"/>
-		<item key="DIALOG_Y_ORIGIN" value="217"/>
+		<item key="DIALOG_X_ORIGIN" value="631"/>
+		<item key="DIALOG_Y_ORIGIN" value="-6"/>
 		<item key="DIALOG_WIDTH" value="557"/>
 		<item key="DIALOG_HEIGHT" value="636"/>
 		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
@@ -103,6 +104,20 @@
 		<item key="DIALOG_Y_ORIGIN" value="40"/>
 		<item key="DIALOG_WIDTH" value="549"/>
 		<item key="DIALOG_HEIGHT" value="569"/>
+		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+	</section>
+	<section name="RefactoringWizard.preview">
+		<item key="width" value="600"/>
+		<item key="height" value="400"/>
+	</section>
+	<section name="GenerateConstructorUsingFieldsSelectionDialog">
+		<item key="OmitCallToSuper" value="false"/>
+	</section>
+	<section name="DialogBounds_GenerateConstructorUsingFieldsSelectionDialog">
+		<item key="DIALOG_X_ORIGIN" value="525"/>
+		<item key="DIALOG_Y_ORIGIN" value="14"/>
+		<item key="DIALOG_WIDTH" value="549"/>
+		<item key="DIALOG_HEIGHT" value="617"/>
 		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
 	</section>
 </section>
